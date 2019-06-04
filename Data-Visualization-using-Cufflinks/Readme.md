@@ -13,5 +13,8 @@ pip install cufflinks
 ### Usage
 After importing cufflinks, plotly plots can be made using `df.iplot()` and then specifying parameters.
 
+### Video Link
+The talk was recorded, and it can be accessed here: [Youtube Link](https://www.youtube.com/watch?v=TtQ8XpcS-2k)
+
 ### Slides for this Talk
 [Link](https://docs.google.com/presentation/d/12MWlIx30bBSBMP7NRt2CbOypHxTlKNQwPbEvu7b-RQs/edit?usp=sharing)
